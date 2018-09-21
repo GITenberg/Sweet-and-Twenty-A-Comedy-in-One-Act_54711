@@ -1,5 +1,8 @@
 _repo: Sweet-and-Twenty-A-Comedy-in-One-Act_54711
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 54711-h/images/coverpag.jpg
 creator:
   author:
     agent_name: Dell, Floyd
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '2100'
     url: http://www.gutenberg.org/2009/agents/2100
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54711#Sweet-and-Twenty-A-Comedy-in-One-Act
 gutenberg_issued: '2017-05-12'
 gutenberg_type: Text
 identifiers:
